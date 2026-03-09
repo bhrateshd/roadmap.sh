@@ -31,7 +31,7 @@ The script also provides:
 
 ## Project Page URL
 
-https://roadmap.sh
+[https://roadmap.sh](https://github.com/bhrateshd/roadmap.sh/)
 
 ---
 
